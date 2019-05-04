@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415729400377",
+    "firebase_url": "https://latihanandroidfinaltitipin.firebaseio.com",
+    "project_id": "latihanandroidfinaltitipin",
+    "storage_bucket": "latihanandroidfinaltitipin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415729400377:android:3df67cd5c5d290b0",
+        "android_client_info": {
+          "package_name": "latihan.android.com.latihanandroidfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415729400377-atpe5ukf28fbnrd3j9b7rnjtfhjdinn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "latihan.android.com.latihanandroidfinal",
+            "certificate_hash": "b2d8737fcbf0375907049932b933019958f919f9"
+          }
+        },
+        {
+          "client_id": "415729400377-9dl5am9s8e3b83fq2m9inq8h1kuk4ij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTn41osxvgV0JpR4rFK8mFoHyVq89Wp6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415729400377-9dl5am9s8e3b83fq2m9inq8h1kuk4ij8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
